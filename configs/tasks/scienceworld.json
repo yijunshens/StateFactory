@@ -1,0 +1,9 @@
+{
+    "task": {
+        "task_class": "SciWorldEnv"
+    },
+    "env_config": {
+        "env_class": "SciWorldEnv",
+        "task_loader": "load_sci_task"
+    }
+}

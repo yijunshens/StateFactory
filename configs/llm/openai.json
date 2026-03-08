@@ -1,0 +1,6 @@
+{
+    "api_key": "<YOUR_API_KEY_HERE>",
+    "model_name": "<MODEL_NAME_E_G_GPT>",
+    "temperature": 0.01,
+    "api_base": "<YOUR_API_BASE_URL_OR_PROXY>"
+}

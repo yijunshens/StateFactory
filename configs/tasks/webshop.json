@@ -1,0 +1,9 @@
+{
+    "task": {
+        "task_class": "WebShopEnv"
+    },
+    "env_config": {
+        "env_class": "WebShopEnv",
+        "task_loader": "load_webshop_task"
+    }
+}

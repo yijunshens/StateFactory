@@ -1,0 +1,9 @@
+{
+    "task": {
+        "task_class": "BlocksWorldEnv"
+    },
+    "env_config": {
+        "env_class": "BlocksWorldEnv",
+        "task_loader": "load_blocksworld_task"
+    }
+}

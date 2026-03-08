@@ -1,0 +1,9 @@
+{
+    "task": {
+        "task_class": "AlfWorldEnv"
+    },
+    "env_config": {
+        "env_class": "AlfWorldEnv",
+        "task_loader": "load_alfworld_task"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "task": {
+        "task_class": "TextWorldEnv"
+    },
+    "env_config": {
+        "env_class": "TextWorldEnv",
+        "task_loader": "load_textworld_task"
+    }
+}
