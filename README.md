@@ -18,7 +18,7 @@
   * <i>Equal Contribution</i> &nbsp;&nbsp;&nbsp;&nbsp; ✉ <i>Corresponding Author</i>
 </p>
 
-**[🔗 Project Website](https://statefactory.github.io)** | **[📄 Read the Paper](#)** | **[🤗 Download Benchmark](https://huggingface.co/datasets/YijunShen/RewardPrediction)**
+**[🔗 Project Website](https://statefactory.github.io)** | **[📄 Read the Paper](https://arxiv.org/abs/2603.09400)** | **[🤗 Download Benchmark](https://huggingface.co/datasets/YijunShen/RewardPrediction)**
 
 </div>
 
@@ -246,4 +246,14 @@ For questions or inquiries, please feel free to reach out to 51285901087@stu.ecn
 
 ## 📜 Citation
 If you find our work useful for your research, please consider citing our paper:
-(waiting to be released)
+```
+@misc{shen2026StateFactory,
+      title={Reward Prediction with Factorized World States}, 
+      author={Yijun Shen and Delong Chen and Xianming Hu and Jiaming Mi and Hongbo Zhao and Kai Zhang and Pascale Fung},
+      year={2026},
+      eprint={2603.09400},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.09400}, 
+}
+```
